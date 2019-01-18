@@ -1,0 +1,11 @@
+<application>
+  <component name="NodeJsLocalInterpreters">
+    <local-interpreter path="C:/software/nodejs/node.exe">
+      <version-cache version="8.9.1" last-modified="1510060862000" />
+      <npm-package value="C:/software/nodejs/node_modules/npm" />
+    </local-interpreter>
+  </component>
+  <component name="RefactoringSettings">
+    <option name="INTRODUCE_FIELD_VISIBILITY" value="private" />
+  </component>
+</application>

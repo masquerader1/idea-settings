@@ -88,6 +88,9 @@
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
+  <action id="ToggleDistractionFreeMode">
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f" />
   </action>

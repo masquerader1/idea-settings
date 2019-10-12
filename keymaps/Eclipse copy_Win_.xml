@@ -24,6 +24,9 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="ActivateRunDashboardToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="alt w" />

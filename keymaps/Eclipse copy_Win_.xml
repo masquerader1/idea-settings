@@ -27,6 +27,9 @@
   <action id="ActivateRunDashboardToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="ActivateServicesToolWindow">
+    <keyboard-shortcut first-keystroke="alt 4" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="alt w" />

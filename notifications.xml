@@ -1,6 +1,5 @@
 <application>
   <component name="NotificationConfiguration">
-    <notification groupId="Docker: Dockerfile detection" shouldLog="false" />
     <notification groupId="IDE and Plugin Updates" displayType="NONE" />
     <notification groupId="Run Dashboard" displayType="NONE" shouldLog="false" />
     <notification groupId="Spring Configuration Check" displayType="NONE" />

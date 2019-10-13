@@ -30,6 +30,11 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="alt d" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -72,6 +77,11 @@
   <action id="FileChooser.TogglePathShowing">
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />

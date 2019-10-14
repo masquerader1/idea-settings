@@ -1,0 +1,7 @@
+<templateSet group="my">
+  <template name="swic" value="switch (object) {&#10;    case obj:&#10;        break;&#10;    default:&#10;        break;&#10;}" description="switch case" toReformat="false" toShortenFQNames="true">
+    <context>
+      <option name="JAVA_CODE" value="true" />
+    </context>
+  </template>
+</templateSet>

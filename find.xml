@@ -1,10 +1,10 @@
 <application>
   <component name="FindSettings">
-    <option name="customScope" value="Directory '...\sinafq-biz\src\main\java\com\basestonedata\finance\biz\bullet [sinafq-biz]'" />
-    <option name="defaultScopeName" value="Directory '...\sinafq-biz\src\main\java\com\basestonedata\finance\biz\bullet [sinafq-biz]'" />
+    <option name="customScope" value="File 'D:\.m2\repository\com\ctrip\framework\apollo\apollo-core\1.1.0\apollo-core-1.1.0-sources.jar!\com\ctrip\framework\apollo\core\MetaDomainConsts.java [Maven: com.ctrip.framework.apollo:apollo-core:1.1.0]'" />
+    <option name="defaultScopeName" value="File 'D:\.m2\repository\com\ctrip\framework\apollo\apollo-core\1.1.0\apollo-core-1.1.0-sources.jar!\com\ctrip\framework\apollo\core\MetaDomainConsts.java [Maven: com.ctrip.framework.apollo:apollo-core:1.1.0]'" />
     <option name="regularExpressions" value="true" />
     <option name="REGULAR_EXPRESSIONS" value="true" />
-    <option name="SEARCH_SCOPE" value="Directory '...\sinafq-biz\src\main\java\com\basestonedata\finance\biz\bullet [sinafq-biz]'" />
+    <option name="SEARCH_SCOPE" value="File 'D:\.m2\repository\com\ctrip\framework\apollo\apollo-core\1.1.0\apollo-core-1.1.0-sources.jar!\com\ctrip\framework\apollo\core\MetaDomainConsts.java [Maven: com.ctrip.framework.apollo:apollo-core:1.1.0]'" />
     <option name="FILE_MASK" value="*.java" />
     <mask>*.css</mask>
     <mask>*.html</mask>

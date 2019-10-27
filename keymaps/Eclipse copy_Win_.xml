@@ -51,6 +51,10 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Console.TableResult.EditValue">
+    <keyboard-shortcut first-keystroke="f2" />
+    <keyboard-shortcut first-keystroke="enter" />
+  </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl c" />

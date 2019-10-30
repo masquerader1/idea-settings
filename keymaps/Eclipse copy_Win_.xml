@@ -24,18 +24,6 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="ActivateRunDashboardToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
-  <action id="ActivateServicesToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
-  </action>
-  <action id="AddToFavoritesPopup" />
-  <action id="Back">
-    <keyboard-shortcut first-keystroke="alt left" />
-    <mouse-shortcut keystroke="button4" />
-    <keyboard-shortcut first-keystroke="alt d" />
-  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -44,18 +32,9 @@
     <keyboard-shortcut first-keystroke="ctrl f4" />
     <keyboard-shortcut first-keystroke="meta w" />
   </action>
-  <action id="CloseEditor">
-    <keyboard-shortcut first-keystroke="alt w" />
-    <keyboard-shortcut first-keystroke="ctrl w" />
-  </action>
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
-  <action id="Console.TableResult.EditValue">
-    <keyboard-shortcut first-keystroke="f2" />
-    <keyboard-shortcut first-keystroke="enter" />
-  </action>
-  <action id="Console.TableResult.SetDefault" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="shift meta c" />
@@ -78,33 +57,10 @@
   <action id="Editor Undo">
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
-  <action id="EditorCompleteStatement">
-    <keyboard-shortcut first-keystroke="shift ctrl alt enter" />
-  </action>
   <action id="EditorPasteFromX11" />
-  <action id="EditorStartNewLineBefore">
-    <keyboard-shortcut first-keystroke="shift ctrl enter" />
-  </action>
-  <action id="EvaluateExpression">
-    <keyboard-shortcut first-keystroke="ctrl u" />
-    <keyboard-shortcut first-keystroke="shift ctrl z" />
-  </action>
   <action id="FileChooser.TogglePathShowing">
     <keyboard-shortcut first-keystroke="ctrl p" />
     <keyboard-shortcut first-keystroke="alt p" />
-  </action>
-  <action id="Find">
-    <keyboard-shortcut first-keystroke="shift alt f" />
-  </action>
-  <action id="Forward">
-    <keyboard-shortcut first-keystroke="alt right" />
-    <mouse-shortcut keystroke="button5" />
-    <keyboard-shortcut first-keystroke="alt f" />
-  </action>
-  <action id="GotoImplementation">
-    <keyboard-shortcut first-keystroke="ctrl t" />
-    <keyboard-shortcut first-keystroke="ctrl alt b" />
-    <mouse-shortcut keystroke="shift control button1" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
@@ -112,11 +68,8 @@
   </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
-  <action id="IntroduceField" />
-  <action id="IntroduceParameter" />
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="alt b" />
-    <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="Print" />
   <action id="QuickImplementations">
@@ -132,23 +85,13 @@
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta r" />
   </action>
-  <action id="SaveAll" />
-  <action id="ScrollPane-scrollDown">
-    <mouse-shortcut keystroke="control button142" />
-  </action>
-  <action id="ScrollPane-scrollUp">
-    <mouse-shortcut keystroke="control button143" />
-  </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="ctrl alt d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="ctrl alt f" />
-  </action>
-  <action id="TogglePresentationMode">
-    <keyboard-shortcut first-keystroke="ctrl alt p" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
 </keymap>

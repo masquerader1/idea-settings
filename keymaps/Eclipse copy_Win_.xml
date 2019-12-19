@@ -28,7 +28,6 @@
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ActivateServicesToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="AddToFavoritesPopup" />

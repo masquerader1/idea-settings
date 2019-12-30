@@ -51,6 +51,10 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />
@@ -138,7 +142,6 @@
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="MakeModule">
-    <keyboard-shortcut first-keystroke="alt b" />
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
   <action id="ParameterInfo">

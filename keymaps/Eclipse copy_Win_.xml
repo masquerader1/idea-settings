@@ -178,6 +178,9 @@
   <action id="ScrollPane-scrollUp">
     <mouse-shortcut keystroke="control button143" />
   </action>
+  <action id="SelectInProjectView">
+    <keyboard-shortcut first-keystroke="alt q" />
+  </action>
   <action id="ShowIntentionActions">
     <keyboard-shortcut first-keystroke="alt enter" />
     <keyboard-shortcut first-keystroke="shift ctrl m" />

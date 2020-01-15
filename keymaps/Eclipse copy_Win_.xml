@@ -95,7 +95,15 @@
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="alt l" />

@@ -49,7 +49,7 @@
     <keyboard-shortcut first-keystroke="ctrl w" />
   </action>
   <action id="CodeCompletion">
-    <keyboard-shortcut first-keystroke="alt slash" />
+    <keyboard-shortcut first-keystroke="shift alt slash" />
   </action>
   <action id="Compile">
     <keyboard-shortcut first-keystroke="shift ctrl f9" />
@@ -197,7 +197,7 @@
     <keyboard-shortcut first-keystroke="shift ctrl m" />
   </action>
   <action id="SmartTypeCompletion">
-    <keyboard-shortcut first-keystroke="shift alt slash" />
+    <keyboard-shortcut first-keystroke="alt slash" />
   </action>
   <action id="SurroundWithLiveTemplate">
     <keyboard-shortcut first-keystroke="shift ctrl s" />

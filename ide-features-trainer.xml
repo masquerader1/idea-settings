@@ -8,10 +8,10 @@
         <entry key="Actions" value="PASSED" />
         <entry key="Basic Completion" value="PASSED" />
         <entry key="Class Search" value="NOT_PASSED" />
-        <entry key="CodeAssistance.CodeFormatting" value="NOT_PASSED" />
-        <entry key="CodeAssistance.EditorCodingAssistance" value="NOT_PASSED" />
-        <entry key="CodeAssistance.ParameterInfo" value="NOT_PASSED" />
-        <entry key="CodeAssistance.QuickPopups" value="NOT_PASSED" />
+        <entry key="CodeAssistance.CodeFormatting" value="PASSED" />
+        <entry key="CodeAssistance.EditorCodingAssistance" value="PASSED" />
+        <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
+        <entry key="CodeAssistance.QuickPopups" value="PASSED" />
         <entry key="Collapse" value="NOT_PASSED" />
         <entry key="Comment Line" value="PASSED" />
         <entry key="Completion with Tab" value="PASSED" />
@@ -35,15 +35,15 @@
         <entry key="Method-Like Function Completion" value="NOT_PASSED" />
         <entry key="Move" value="PASSED" />
         <entry key="Multiple Selections" value="PASSED" />
-        <entry key="Navigation.Declaration/Implementation" value="NOT_PASSED" />
-        <entry key="Navigation.FileStructure" value="NOT_PASSED" />
-        <entry key="Navigation.JumptoSource" value="NOT_PASSED" />
-        <entry key="Navigation.Next/PreviousOccurrences" value="NOT_PASSED" />
+        <entry key="Navigation.Declaration/Implementation" value="PASSED" />
+        <entry key="Navigation.FileStructure" value="PASSED" />
+        <entry key="Navigation.JumptoSource" value="PASSED" />
+        <entry key="Navigation.Next/PreviousOccurrences" value="PASSED" />
         <entry key="Postfix Completion" value="PASSED" />
         <entry key="Refactoring Menu" value="NOT_PASSED" />
         <entry key="Refactorings.ExtractMethod" value="PASSED" />
         <entry key="Refactorings.ExtractVariable/Field" value="PASSED" />
-        <entry key="Refactorings.RefactoringBasics" value="NOT_PASSED" />
+        <entry key="Refactorings.RefactoringBasics" value="PASSED" />
         <entry key="Refactorings.Rename" value="PASSED" />
         <entry key="Rename" value="NOT_PASSED" />
         <entry key="Select" value="PASSED" />
@@ -92,6 +92,38 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="149905" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.CodeFormatting">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="13601" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.EditorCodingAssistance">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="134802" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.ParameterInfo">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="13805" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="CodeAssistance.QuickPopups">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="49899" />
             </StatisticData>
           </value>
         </entry>
@@ -151,6 +183,38 @@
             </StatisticData>
           </value>
         </entry>
+        <entry key="Navigation.Declaration/Implementation">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="10167" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.FileStructure">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="87217" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.JumptoSource">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="41578" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Navigation.Next/PreviousOccurrences">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="62266" />
+            </StatisticData>
+          </value>
+        </entry>
         <entry key="Postfix Completion">
           <value>
             <StatisticData>
@@ -172,6 +236,14 @@
             <StatisticData>
               <option name="state" value="PASSED" />
               <option name="timestamp" value="12830" />
+            </StatisticData>
+          </value>
+        </entry>
+        <entry key="Refactorings.RefactoringBasics">
+          <value>
+            <StatisticData>
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="839529" />
             </StatisticData>
           </value>
         </entry>

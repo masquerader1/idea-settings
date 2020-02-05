@@ -136,6 +136,12 @@
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />

@@ -168,8 +168,18 @@
   <action id="NewClass">
     <keyboard-shortcut first-keystroke="shift ctrl n" />
   </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
+  </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="Print" />
   <action id="QuickImplementations">

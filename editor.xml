@@ -1,9 +1,16 @@
 <application>
   <component name="EditorSettings">
     <option name="SHOW_QUICK_DOC_ON_MOUSE_OVER_ELEMENT" value="true" />
-    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="1000" />
+    <option name="QUICK_DOC_ON_MOUSE_OVER_DELAY_MS" value="800" />
   </component>
-  <component name="SqlEditorOptions">
-    <option name="qualificationType" value="On collisions" />
+  <component name="TodoConfiguration">
+    <pattern pattern="\b(todo|fixme)\b.*" />
+    <pattern icon="question" pattern="\btodo-me\b.*" />
+    <filter name="me">
+      <pattern index="1" />
+    </filter>
+    <filter name="not for me">
+      <pattern index="0" />
+    </filter>
   </component>
 </application>

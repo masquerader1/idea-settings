@@ -28,7 +28,6 @@
     <keyboard-shortcut first-keystroke="alt 4" />
   </action>
   <action id="ActivateServicesToolWindow">
-    <keyboard-shortcut first-keystroke="alt 4" />
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
   <action id="AddToFavoritesPopup" />
@@ -52,14 +51,20 @@
   <action id="CodeCompletion">
     <keyboard-shortcut first-keystroke="alt slash" />
   </action>
+  <action id="Compile">
+    <keyboard-shortcut first-keystroke="shift ctrl f9" />
+    <keyboard-shortcut first-keystroke="alt b" />
+  </action>
   <action id="Console.TableResult.EditValue">
     <keyboard-shortcut first-keystroke="f2" />
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="Console.TableResult.SetDefault" />
   <action id="CopyPaths">
-    <keyboard-shortcut first-keystroke="shift ctrl c" />
     <keyboard-shortcut first-keystroke="shift meta c" />
+  </action>
+  <action id="DatabaseView.CopyDdlAction">
+    <keyboard-shortcut first-keystroke="shift ctrl alt g" />
   </action>
   <action id="Editor Copy">
     <keyboard-shortcut first-keystroke="meta c" />
@@ -90,13 +95,29 @@
     <keyboard-shortcut first-keystroke="left" />
     <keyboard-shortcut first-keystroke="alt j" />
   </action>
+  <action id="EditorNextWord">
+    <keyboard-shortcut first-keystroke="ctrl right" />
+    <keyboard-shortcut first-keystroke="ctrl alt l" />
+  </action>
   <action id="EditorPasteFromX11" />
+  <action id="EditorPreviousWord">
+    <keyboard-shortcut first-keystroke="ctrl left" />
+    <keyboard-shortcut first-keystroke="ctrl alt j" />
+  </action>
   <action id="EditorRight">
     <keyboard-shortcut first-keystroke="right" />
     <keyboard-shortcut first-keystroke="alt l" />
   </action>
+  <action id="EditorSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt up" />
+    <keyboard-shortcut first-keystroke="shift alt i" />
+  </action>
   <action id="EditorStartNewLineBefore">
     <keyboard-shortcut first-keystroke="shift ctrl enter" />
+  </action>
+  <action id="EditorUnSelectWord">
+    <keyboard-shortcut first-keystroke="shift alt down" />
+    <keyboard-shortcut first-keystroke="shift alt k" />
   </action>
   <action id="EditorUp">
     <keyboard-shortcut first-keystroke="up" />
@@ -114,6 +135,13 @@
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="alt f" />
   </action>
+  <action id="Git.Commit.And.Push.Executor" />
+  <action id="Git.CompareWithBranch">
+    <keyboard-shortcut first-keystroke="f11" />
+  </action>
+  <action id="Git.Fetch">
+    <keyboard-shortcut first-keystroke="f10" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
@@ -125,14 +153,33 @@
   </action>
   <action id="HippieBackwardCompletion" />
   <action id="HippieCompletion" />
+  <action id="Inline" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
   <action id="MakeModule">
-    <keyboard-shortcut first-keystroke="alt b" />
     <keyboard-shortcut first-keystroke="ctrl s" />
+  </action>
+  <action id="MoveLineDown">
+    <keyboard-shortcut first-keystroke="ctrl alt k" />
+  </action>
+  <action id="MoveLineUp">
+    <keyboard-shortcut first-keystroke="ctrl alt i" />
+  </action>
+  <action id="NewClass">
+    <keyboard-shortcut first-keystroke="shift ctrl n" />
+  </action>
+  <action id="NextTab">
+    <keyboard-shortcut first-keystroke="ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_down" />
+    <keyboard-shortcut first-keystroke="ctrl alt right" />
   </action>
   <action id="ParameterInfo">
     <keyboard-shortcut first-keystroke="alt p" />
+  </action>
+  <action id="PreviousTab">
+    <keyboard-shortcut first-keystroke="shift ctrl f6" />
+    <keyboard-shortcut first-keystroke="ctrl page_up" />
+    <keyboard-shortcut first-keystroke="ctrl alt left" />
   </action>
   <action id="Print" />
   <action id="QuickImplementations">
@@ -176,5 +223,9 @@
   </action>
   <action id="TogglePresentationMode">
     <keyboard-shortcut first-keystroke="ctrl alt p" />
+  </action>
+  <action id="de.netnexus.CamelCasePlugin.ToggleCamelCase">
+    <keyboard-shortcut first-keystroke="shift alt u" />
+    <keyboard-shortcut first-keystroke="shift ctrl c" />
   </action>
 </keymap>

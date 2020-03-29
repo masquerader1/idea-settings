@@ -10,8 +10,8 @@
     <mask>*</mask>
     <mask>*.yml</mask>
     <mask>*.properties</mask>
-    <mask>*.xml</mask>
     <mask>*.java</mask>
+    <mask>*.xml</mask>
     <mask>*.java</mask>
   </component>
 </application>

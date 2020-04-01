@@ -12,7 +12,7 @@
         <entry key="CodeAssistance.EditorCodingAssistance" value="PASSED" />
         <entry key="CodeAssistance.ParameterInfo" value="PASSED" />
         <entry key="CodeAssistance.QuickPopups" value="PASSED" />
-        <entry key="Collapse" value="NOT_PASSED" />
+        <entry key="Collapse" value="PASSED" />
         <entry key="Comment Line" value="PASSED" />
         <entry key="Completion with Tab" value="PASSED" />
         <entry key="Declaration and usages" value="NOT_PASSED" />
@@ -130,8 +130,8 @@
         <entry key="Collapse">
           <value>
             <StatisticData>
-              <option name="state" value="STARTED" />
-              <option name="timestamp" value="1579082055372" />
+              <option name="state" value="PASSED" />
+              <option name="timestamp" value="6554895440" />
             </StatisticData>
           </value>
         </entry>

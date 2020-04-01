@@ -60,6 +60,7 @@
     <keyboard-shortcut first-keystroke="enter" />
   </action>
   <action id="Console.TableResult.SetDefault" />
+  <action id="ContextHelp" />
   <action id="CopyPaths">
     <keyboard-shortcut first-keystroke="shift meta c" />
   </action>
@@ -159,6 +160,9 @@
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
+  <action id="Maven.ReimportProject">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="MoveLineDown">
     <keyboard-shortcut first-keystroke="ctrl alt k" />
   </action>
@@ -197,6 +201,9 @@
   </action>
   <action id="ReopenClosedTab">
     <keyboard-shortcut first-keystroke="meta r" />
+  </action>
+  <action id="RevealIn">
+    <keyboard-shortcut first-keystroke="f1" />
   </action>
   <action id="SaveAll" />
   <action id="ScrollPane-scrollDown">

@@ -4,14 +4,20 @@
     <option name="defaultScopeName" value="All Places" />
     <option name="SEARCH_SCOPE" value="All Places" />
     <option name="FILE_MASK" value="*.java" />
-    <mask>*.css</mask>
-    <mask>*.html</mask>
-    <mask>*.jsp</mask>
-    <mask>*.yml</mask>
-    <mask>*.properties</mask>
-    <mask>*.xml</mask>
-    <mask>*</mask>
-    <mask>*.java</mask>
-    <mask>*.java</mask>
+    <recentFileMasks>
+      <mask>*.properties</mask>
+      <mask>*.html</mask>
+      <mask>*.jsp</mask>
+      <mask>*.xml</mask>
+      <mask>*.js</mask>
+      <mask>*.as</mask>
+      <mask>*.css</mask>
+      <mask>*.mxml</mask>
+      <mask>*</mask>
+      <mask>*.</mask>
+      <mask>*.ja</mask>
+      <mask>*.jav</mask>
+      <mask>*.java</mask>
+    </recentFileMasks>
   </component>
 </application>

@@ -30,6 +30,10 @@
   <action id="ActivateServicesToolWindow">
     <keyboard-shortcut first-keystroke="alt c" />
   </action>
+  <action id="ActivateTerminalToolWindow">
+    <keyboard-shortcut first-keystroke="alt f12" />
+    <keyboard-shortcut first-keystroke="alt t" />
+  </action>
   <action id="AddToFavoritesPopup" />
   <action id="Back">
     <keyboard-shortcut first-keystroke="alt left" />

@@ -6,5 +6,7 @@
   <component name="Registry">
     <entry key="debugger.valueTooltipAutoShowOnSelection" value="true" />
     <entry key="compiler.automake.allow.when.app.running" value="true" />
+    <entry key="appcode.resolve.effective.platform" value="true" />
+    <entry key="localHistory.daysToKeep" value="50" />
   </component>
 </application>

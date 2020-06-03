@@ -147,6 +147,12 @@
   <action id="Git.Fetch">
     <keyboard-shortcut first-keystroke="f10" />
   </action>
+  <action id="Git.Pull">
+    <keyboard-shortcut first-keystroke="f3" />
+  </action>
+  <action id="GotoDeclaration">
+    <mouse-shortcut keystroke="control button1" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />

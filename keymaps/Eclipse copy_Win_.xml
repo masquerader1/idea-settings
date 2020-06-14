@@ -24,6 +24,11 @@
     <keyboard-shortcut first-keystroke="ctrl z" />
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
+  <action id="Back">
+    <keyboard-shortcut first-keystroke="alt left" />
+    <mouse-shortcut keystroke="button4" />
+    <keyboard-shortcut first-keystroke="meta d" />
+  </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
     <keyboard-shortcut first-keystroke="alt w" />
@@ -78,10 +83,25 @@
     <keyboard-shortcut first-keystroke="alt i" />
     <keyboard-shortcut first-keystroke="meta i" />
   </action>
+  <action id="EvaluateExpression">
+    <keyboard-shortcut first-keystroke="ctrl u" />
+    <keyboard-shortcut first-keystroke="shift ctrl z" />
+  </action>
+  <action id="Forward">
+    <keyboard-shortcut first-keystroke="alt right" />
+    <mouse-shortcut keystroke="button5" />
+    <keyboard-shortcut first-keystroke="meta f" />
+  </action>
+  <action id="GotoDeclaration">
+    <keyboard-shortcut first-keystroke="f3" />
+    <mouse-shortcut keystroke="control button1" />
+    <mouse-shortcut keystroke="meta button1" />
+  </action>
   <action id="GotoImplementation">
     <keyboard-shortcut first-keystroke="ctrl t" />
     <keyboard-shortcut first-keystroke="ctrl alt b" />
     <mouse-shortcut keystroke="shift control button1" />
+    <mouse-shortcut keystroke="shift meta button1" />
   </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />

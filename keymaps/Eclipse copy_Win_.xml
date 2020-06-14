@@ -58,10 +58,6 @@
     <keyboard-shortcut first-keystroke="meta z" />
   </action>
   <action id="EditorPasteFromX11" />
-  <action id="FileChooser.TogglePathShowing">
-    <keyboard-shortcut first-keystroke="ctrl p" />
-    <keyboard-shortcut first-keystroke="alt p" />
-  </action>
   <action id="HideAllWindows">
     <keyboard-shortcut first-keystroke="shift ctrl f12" />
     <keyboard-shortcut first-keystroke="alt a" />
@@ -71,7 +67,6 @@
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="alt b" />
   </action>
-  <action id="Print" />
   <action id="QuickImplementations">
     <keyboard-shortcut first-keystroke="shift ctrl i" />
     <mouse-shortcut keystroke="shift button2" />
@@ -87,9 +82,6 @@
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
-  </action>
-  <action id="ToggleDistractionFreeMode">
-    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="ToggleFullScreen">
     <keyboard-shortcut first-keystroke="alt f" />

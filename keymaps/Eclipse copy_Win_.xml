@@ -28,6 +28,7 @@
     <keyboard-shortcut first-keystroke="alt left" />
     <mouse-shortcut keystroke="button4" />
     <keyboard-shortcut first-keystroke="meta d" />
+    <keyboard-shortcut first-keystroke="alt d" />
   </action>
   <action id="CloseActiveTab">
     <keyboard-shortcut first-keystroke="ctrl w" />
@@ -91,6 +92,7 @@
     <keyboard-shortcut first-keystroke="alt right" />
     <mouse-shortcut keystroke="button5" />
     <keyboard-shortcut first-keystroke="meta f" />
+    <keyboard-shortcut first-keystroke="alt f" />
   </action>
   <action id="GotoDeclaration">
     <keyboard-shortcut first-keystroke="f3" />
@@ -127,8 +129,5 @@
   </action>
   <action id="SmartTypeCompletion">
     <keyboard-shortcut first-keystroke="shift alt slash" />
-  </action>
-  <action id="ToggleFullScreen">
-    <keyboard-shortcut first-keystroke="alt f" />
   </action>
 </keymap>

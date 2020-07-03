@@ -167,6 +167,13 @@
   <action id="Inline" />
   <action id="IntroduceField" />
   <action id="IntroduceParameter" />
+  <action id="JumpToLastChange">
+    <keyboard-shortcut first-keystroke="ctrl q" />
+    <mouse-shortcut keystroke="shift button143" />
+  </action>
+  <action id="JumpToNextChange">
+    <mouse-shortcut keystroke="shift button142" />
+  </action>
   <action id="MakeModule">
     <keyboard-shortcut first-keystroke="ctrl s" />
   </action>
